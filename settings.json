@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Crazyy079-NhFi.aternos.me",
+    "port": 48235,
     "version": "",
     "try-creative": false
   },
@@ -50,7 +50,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 7,
       "speed": 3000
     },
     "look-around": {
